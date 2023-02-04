@@ -1,0 +1,17 @@
+<html>
+<title>Prosta Mamont</title>
+	<body style="font-family:cursive;">
+		<header style="background-color:#85FFBA">
+		<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ/" style="color:navy">Статья об океане</a>
+		</header>
+		<main style="background-color:#89FCFF">
+			<h1 style="color:#A75698; text-align:center">Институт изучения мирового океана</h1>
+			<p style="font-size:25px;text-align:center">На нашем сайте будут опубликованы:
+<br/>монографии учёных, расписание конференций, отчёты об экспидициях,
+<br/>планирование экологических программ и многое другое.</p>
+	<center><img src="https://img.freepik.com/free-photo/landscape-of-a-wavy-sea-under-the-sunlight-and-a-blue-sky_181624-25248.jpg" width="850px"></center>
+	<footer style="background-color:#2C2997">
+		<p style="color:white">Адрес: Россия, Мухосранская область, г. Зажопинск, ул. Пушкина, дом Калотушкина,подъезд 1, кв.2</p>
+	</footer>
+	</body>
+</html>
